@@ -1,6 +1,3 @@
-# markdown_test
-
-
 # Git / Github
 
 <br/>
