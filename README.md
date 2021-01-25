@@ -70,6 +70,6 @@ repository는 stage area에 있던 파일들이 올라가는 공간. (*최종적
 <br/>
 
 ## **merge 2가지 설명 (fast-forward/Merge conflict)**
-- ' fast-forward ' : 병합할 브랜치의 커밋이 현재 브랜치의 커밋보다 앞서가 있기 때문에, 기준 브랜치의 커밋을 대상 브랜치 커밋으로 이동하겠다는 의미이다.
-- ' merge conflict ' : 병합할 때 일어나는 충돌이다.
+- `fast-forward` : 병합할 브랜치의 커밋이 현재 브랜치의 커밋보다 앞서가 있기 때문에, 기준 브랜치의 커밋을 대상 브랜치 커밋으로 이동하겠다는 의미이다.
+- `merge conflict` : 병합할 때 일어나는 충돌이다.
 
