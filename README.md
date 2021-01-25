@@ -4,7 +4,9 @@
 
 ## **Git과 Github의 차이점**
 - git이란 버전 컨트롤러로 총 4가지의 상태(*untracked, modified, stage, committed*)가 있다. 로컬에서 작업한 내용을 저장해준다.
-** git은 stage area와 repository를 가지고 있다.
+
+
+  ** git은 stage area와 repository를 가지고 있다.
 
 stage area는 업로드하기 전 업로드 할 대기파일들이 올라가는 공간. (*add를 통해 작업)* 
 
