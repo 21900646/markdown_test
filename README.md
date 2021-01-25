@@ -8,6 +8,13 @@
 
 - github이란 깃허브에서 제공해주는 클라우드 서버에 local에서 관리한 소스코드를 업로드나 공유할 수 있는 공간이다.
 
+
+** git은 stage area와 repository를 가지고 있다.
+
+stage area는 업로드하기 전 업로드 할 대기파일들이 올라가는 공간. (*add를 통해 작업)* 
+
+repository는 stage area에 있던 파일들이 올라가는 공간. (*최종적으로 올라가는 공간이고, commit을 통해 작업이 된다. )*
+
 <br/>
 
 - - - 
@@ -22,13 +29,6 @@
 <br/>
 
 ** git commit -a -> 스테이징 절차(add)를 생략하고 바로 add와 commit을 동시에 가능.
-
-
-** git은 stage area와 repository를 가지고 있다.
-
-stage area는 업로드하기 전 업로드 할 대기파일들이 올라가는 공간. (*add를 통해 작업)* 
-
-repository는 stage area에 있던 파일들이 올라가는 공간. (*최종적으로 올라가는 공간이고, commit을 통해 작업이 된다. )*
 
 <br/>
 
